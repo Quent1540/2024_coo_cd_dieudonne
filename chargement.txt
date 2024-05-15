@@ -1,0 +1,6 @@
+4 :
+    1. la classe main crée un objet ChargeurMagasin et appelle la méthode chargerMagasin()
+    2. la méthode appelée crée un objet Magasin puis un objet ChargeurCD(fichier)
+    3. la methode chargerCD() est appelée par la methode chargerMagasin()
+    4. la méthode chargerCD() crée un objet CD puis appelle les methodes extrairePiste() et ajouterPiste() plusieurs fois
+    5. la piste ajoutée est récupérée et est ajoutée au magasin avec la methode ajouterCd(cd1)
